@@ -1,0 +1,11 @@
+NOTAS EN HTML
+	Tipos de estilo
+		inline
+		etiquetas
+		documento externo
+
+NOTAS EN CSS
+	Tipos de selectores
+		etiqueta
+		clase (.)
+		id (#)
